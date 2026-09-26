@@ -27,42 +27,28 @@
 /*____________________________________________________________________*/
 
 @import "flux-bunny-size-scale.css";
-@import "flux-bunny-const-md.css";
 
 /*--------------------------------------------------------------------*/
 /* CONSTANTS
 /*--------------------------------------------------------------------*/
 :root {
-  /*------------------------------------------------------------------*/
-  /* Dimensions
-  /*------------------------------------------------------------------*/
-  --content-padding: 20px;
-  --toc-link-padding: 8px;
-  --pg-padding: 20px;
-
-  --flux_button_txt: var(--flux-bg-norm);
-
-  --site-title-brdr: 16px solid var(--flux-color-3);
-
-  --content-border: 8px solid var(--flux-color-3);
-  --h2-border: 4px solid var(--flux-color-2);
-  --h3-border: 1px solid var(--flux-bg-bold);
-
-  --margin-site-title: 24pt;
-  --size-base: 10pt;
-  --size-small: 8pt;
-
-  --size-site-title: var(--size-site-title);
-  --size-h1: calc(2 * var(--size-h1));
-  --size-h2: calc(var(--size-scale) * 20pt);
-  --size-h3: calc(2 * var(--size-h3));
-  --size-h4: calc(2 * var(--size-h4));
-
-  --size-code: 10pt;
-
-  --size-toc-top: clamp(12px, 1vw + 0.4rem, 16px);
-  --size-toc-gen: clamp(10px, 1vw + 0.2rem, 12px);
 
   --font-fam-header: 'DIN Neuzeit Grotesk', 'Trebuchet MS';
   --font-fam-normal: 'Consolas', monospace;
+
+  /*------------------------------------------------------------------*/
+  /* Dimensions
+  /*------------------------------------------------------------------*/
+  --sz-base: calc(var(--size-scale) * 08pt);
+  --sz-smll: 8pt;
+  --sz-titl: calc(var(--size-scale) * 18pt);
+
+  --size-h1: var(--sz-titl);
+  --size-h2: calc(var(--size-scale) * 14pt);
+  --size-h3: calc(var(--size-scale) * 10pt);
+  --size-h4: calc(var(--size-scale) * 08pt);
+  --sz-code: calc(var(--size-scale) * 08pt);
+  --pad-top: 20px;
+  --bord-h2: 4px solid var(--flux-color-2);
+  --bord-h3: 1px solid var(--flux-bg-bold);
 }

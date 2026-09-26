@@ -20,6 +20,18 @@ FORMAT
 
 # Harengon
 
+## Special Traits Summary
+
+Trait | Description
+-|-
+Leporine Senses | Proficiency in Perception
+Hare Trigger    | + Proficiency to initiative roles
+Lucky Footwork  | __Reaction:__ Add D4 roll to failed Dexterity saving throw;  Can't if prone or speed = 0
+Rabbit Hop      | Usage / long rest: # Proficiency; __Bonus Action:__ Jump 5x Proficiency feet, no opportunity attack; Can't if speed = 0
+Languages       | Common + one other (Daisy can speak Sylvan)
+
+## Description
+
 Mordenkainen Presents: Monsters of the Multiverse
 
 Harengons originated in the Feywild, where they spoke Sylvan and embodied the spirit of freedom and travel. In time, these rabbitfolk hopped into other worlds, bringing the fey realm’s exuberance with them and learning new languages as they went.
@@ -44,19 +56,19 @@ Your walking speed is 30 feet.
 
 ## Hare-Trigger
 
-You can add your proficiency bonus to your initiative rolls.
+You can add your __proficiency__ bonus to your __initiative rolls__.
 
 ## Leporine Senses
 
-You have proficiency in the Perception skill.
+You have __proficiency__ in the __Perception__ skill.
 
 ## Lucky Footwork
 
-When you fail a Dexterity saving throw, you can use your reaction to roll a d4 and add it to the save, potentially turning the failure into a success. You can't use this reaction if you're prone or your speed is 0.
+When you __fail__ a __Dexterity saving throw__, you can use your __reaction__ to roll a __d4__ and __add__ it to the __save__, potentially turning the failure into a success. You __can't__ use this reaction if you're __prone__ or your __speed is 0__.
 
 ## Rabbit Hop
 
-As a bonus action, you can jump a number of feet equal to five times your proficiency bonus, without provoking opportunity attacks. You can use this trait only if your speed is greater than 0. You can use it a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
+As a __bonus__ action, you can __jump__ a number of feet equal to __five times__ your __proficiency__ bonus, __without provoking opportunity attacks__. You can use this trait only if your speed is greater than 0. You can use it a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest.
 
 ## Languages
 
