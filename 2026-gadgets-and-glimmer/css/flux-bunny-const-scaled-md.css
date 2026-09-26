@@ -26,6 +26,7 @@
 /*  CSS style sheet for constants.
 /*____________________________________________________________________*/
 
+@import "flux-bunny-size-scale.css";
 @import "flux-bunny-const-md.css";
 
 /*--------------------------------------------------------------------*/
@@ -53,7 +54,7 @@
 
   --size-site-title: var(--size-site-title);
   --size-h1: calc(2 * var(--size-h1));
-  --size-h2: calc(2 * 20pt);
+  --size-h2: calc(var(--size-scale) * 20pt);
   --size-h3: calc(2 * var(--size-h3));
   --size-h4: calc(2 * var(--size-h4));
 
