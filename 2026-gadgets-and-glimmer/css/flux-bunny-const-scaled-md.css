@@ -41,10 +41,10 @@
   /*------------------------------------------------------------------*/
   --sz-base: calc(var(--size-scale) * 08pt);
   --sz-smll: 8pt;
-  --sz-titl: calc(var(--size-scale) * 18pt);
+  --sz-titl: calc(var(--size-scale) * 14pt);
 
   --size-h1: var(--sz-titl);
-  --size-h2: calc(var(--size-scale) * 14pt);
+  --size-h2: calc(var(--size-scale) * 10pt);
   --size-h3: calc(var(--size-scale) * 10pt);
   --size-h4: calc(var(--size-scale) * 08pt);
   --sz-code: calc(var(--size-scale) * 08pt);
