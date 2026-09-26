@@ -36,18 +36,19 @@ body
   font-size  : var(--sz-base);
 }
 
+p
+{
+  margin: none  !important;
+  padding: none !important;
+}
+
 strong
 {
   color         : var(--flux-color-2);
   font-style    : italic;
   font-weight   : bold;
 }
-/*
-p
-{
-  margin-top: 20pt;
-}
-*/
+
 
 h1, h2, h3, h4, h5
 {
@@ -66,7 +67,9 @@ h2
   font-size     : var(--size-h2);
   color         : var(--flux-color-1);
   font-variant  : small-caps;
-  padding-top   : var(--sz-base);
+  margin-top    : none;
+  padding-top   : calc(0.25 * var(--sz-base));
+  padding-bottom: none;
   border-top    : var(--bord-h2);
   border-bottom : none;
 }
