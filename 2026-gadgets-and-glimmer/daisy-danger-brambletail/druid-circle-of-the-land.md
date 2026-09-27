@@ -22,13 +22,15 @@ FORMAT
 
 # Druid: Circle of the Land
 
+Source: Player's Handbook 2014
+
 ## Special Traits Summary
 
 This table summarizes the traits that are special for a Druid: Circle of the Land.
 
 Trait              | Level | Bonus
 -|-|-
---                 | 2     | Additional Druid cantrip
+Extra Cantrip      | 2     | Additional Druid cantrip
 Natural Recovery   | 2     | Short rest - recover spell slots; Combined level = 1/2 level (rounded up); No 6th level or higher
 Land's Strike      | 6     | Moving through non-magical __difficult terrain__ costs you __no extra movement__
 Land's Strike      | 6     | Pass through non-magical plants __without being slowed__ and __without taking damage__, e.g. thorns, spines
@@ -36,6 +38,8 @@ Land's Strike      | 6     | __Advantage on saving throws__ against __magically 
 Nature's  Ward     | 10    | __Can't be charmed or frightened__ by elementals or fey, and you are __immune to poison and disease__.
 Nature's  Ward     | 10    | Immune to poison and disease
 Nature's Sanctuary | 14    | Beast or plant attack must make __Wisdom saving throw__ against druid spell save DC. __Failed__ save: creature chooses different target, or misses; __Successful__ save: creature immune to this effect for __24__ hours.
+
+<div style="break-before: page; page-break-before: always;"></div>
 
 ### Circle of the Land: Forest Special Spells
 
@@ -50,8 +54,6 @@ Druid Level | Circle Spells
 
 ## Description
 
-Source: Player's Handbook
-
 The Circle of the Land is made up of mystics and sages who safeguard ancient knowledge and rites through a vast oral tradition. These druids meet within sacred circles of trees or standing stones to whisper primal secrets in Druidic. The circle's wisest members preside as the chief priests of communities that hold to the Old Faith and serve as advisors to the rulers of those folk. As a member of this circle, your magic is influenced by the land where you were initiated into the circle's mysterious rites.
 
 ## Bonus Cantrip
@@ -63,6 +65,8 @@ When you choose this circle at __2nd__ level, you learn __additional__ druid can
 Starting at __2nd__ level, you can regain some of your magical energy by sitting in meditation and communing with nature. During a __short rest__, you choose expended __spell slots__ to __recover__. The spell slots can have a __combined level__ that is equal to or less than __half your druid level__ (rounded up), and __none__ of the slots can be __6th__ level or higher. You can't use this feature again until you finish a long rest.
 
 For example, when you are a 4th-level druid, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level slot or two 1st-level slots.
+
+<div style="break-before: page; page-break-before: always;"></div>
 
 ## Circle Spells
 

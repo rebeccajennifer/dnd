@@ -14,45 +14,43 @@ FORMAT
 <!--------------------------------------------------------------------->
 
 <!-- markdownlint-disable MD033 -->
-<!-- markdownlint-disable MD060 -->
 
 <link rel="stylesheet" href="../css/flux-bunny-text-md.css">
 
 # Harengon
 
+Mordenkainen Presents: Monsters of the Multiverse
+
 ## Special Traits Summary
 
-Trait | Description
+Trait                  | Description
 -|-
-Leporine Senses | Proficiency in Perception
-Hare Trigger    | + Proficiency to initiative roles
-Lucky Footwork  | __Reaction:__ Add D4 roll to failed Dexterity saving throw;  Can't if prone or speed = 0
-Rabbit Hop      | Usage / long rest: # Proficiency; __Bonus Action:__ Jump 5x Proficiency feet, no opportunity attack; Can't if speed = 0
-Languages       | Common + one other (Daisy can speak Sylvan)
+Ability Score Increase | +2 one skill, +1 one skill, or +3 one skill
+Leporine Senses        | Proficiency in Perception
+Hare Trigger           | + Proficiency to initiative roles
+Lucky Footwork         | __Reaction:__ Add D4 roll to failed Dexterity saving throw;  Can't if prone or speed = 0
+Rabbit Hop             | Usage / long rest: # Proficiency; __Bonus Action:__ Jump 5x Proficiency feet, no opportunity attack; Can't if speed = 0
+Languages              | Common + one other (Sylvan)
 
 ## Description
-
-Mordenkainen Presents: Monsters of the Multiverse
 
 Harengons originated in the Feywild, where they spoke Sylvan and embodied the spirit of freedom and travel. In time, these rabbitfolk hopped into other worlds, bringing the fey realm’s exuberance with them and learning new languages as they went.
 
 Harengons are bipedal, with the characteristic long feet of the rabbits they resemble and fur in a variety of colors. They share the keen senses and powerful legs of leporine creatures and are full of energy, like a wound-up spring. Harengons are blessed with a little fey luck, and they often find themselves a few fortunate feet away from dangers during adventures.
 
+<div style="break-before: page; page-break-before: always;"></div>
+
+## General
+
+Trait         | Notes
+-|-
+Type          | Humanoid
+Size          | Medium or Small
+Speed         | Walking speed: 30 feet
+
 ## Ability Score Increase
 
-When determining your character’s ability scores, increase one score by 2 and increase a different score by 1, or increase three different scores by 1. You can't raise any of your scores above 20.
-
-## Creature Type
-
-You are a Humanoid.
-
-## Size
-
-You are Medium or Small. You choose the size when you select this race.
-
-## Speed
-
-Your walking speed is 30 feet.
+When determining your character’s ability scores, increase __one score by 2__ and increase a __different score by 1__, or increase __three different scores by 1__. You can't raise any of your scores above 20.
 
 ## Hare-Trigger
 
@@ -72,4 +70,4 @@ As a __bonus__ action, you can __jump__ a number of feet equal to __five times__
 
 ## Languages
 
-Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character. The Player’s Handbook offers a list of languages to choose from. The DM is free to modify that list for a campaign.
+Your character can speak, read, and write Common and one other language that you and your DM agree is appropriate for the character.
