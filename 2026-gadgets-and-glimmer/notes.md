@@ -15,7 +15,6 @@ FORMAT
 
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD045 -->
-<!-- markdownlint-disable MD060 -->
 
 <link rel="stylesheet" href="css/flux-bunny-text-md.css">
 
@@ -26,6 +25,24 @@ This document includes game play notes from DnD sessions.
 ## House Rules
 
 I can cast ritual cast Speak with Animals.
+
+## Navigation
+
+| Suit         | Value            | Challenge    | Solved? | Notes                                       |
+| ------------ | ---------------- | ------------ | ------- | ------------------------------------------- |
+| Hermit       | Minotaur         | Y            |         |                                             |
+| Lovers       |                  | Y            |         |                                             |
+| Major Arcana | Empress          | Fairy Palace | N       |                                             |
+| Hierophant   | Temple of Salune | N            |         |                                             |
+| Major Arcana | The Lovers       |              |         |                                             |
+| Major Arcana | The Hermit       |              |         |                                             |
+| Major Arcana | The World        | Tree Tower   | Y       | Rogl tossed empty wine bottle, killed trees |
+| Intelligence | 1                |              |         |                                             |
+| Intelligence | 5                |              |         |                                             |
+| Intelligence | 10               |              |         |                                             |
+| Intelligence | Knight (12)      |              |         |                                             |
+| Wisdom       | 1                |              |         |                                             |
+|              |                  | Tea pot fix  | Y       |                                             |
 
 ## 2026-09-20 Sun
 
@@ -54,9 +71,9 @@ Court Drawing
 - Fnip gives me sending stone to communicate
 - Brambleshade walking into embassy
 
-Level | Allotment | Used
------ | --------- | ----
-1     | 4         |
-2     | 3         |
-3     | 3         |
-4     | 1         |
+| Level | Allotment | Used |
+| ----- | --------- | ---- |
+| 1     | 4         |      |
+| 2     | 3         |      |
+| 3     | 3         |      |
+| 4     | 1         |      |
