@@ -59,8 +59,9 @@ h1, h2, h3, h4, h5
 h1
 {
   font-size     : var(--size-h1);
-  color         : var(--flux-color-2);
+  color         : var(--flux-fg-norm);
   font-variant  : small-caps;
+  border-bottom : var(--bord-h1);
 }
 
 h2
@@ -83,7 +84,7 @@ h3
 {
   font-size     : var(--size-h3);
   color         : var(--flux-fg-mute);
-  border-top    : var(--board-h3);
+  border-top    : var(--bord-h3);
   font-variant  : small-caps;
 }
 

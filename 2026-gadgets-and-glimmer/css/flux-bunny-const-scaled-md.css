@@ -50,6 +50,7 @@
   --size-h3: calc(var(--size-scale) * 10pt);
   --size-h4: calc(var(--size-scale) * 08pt);
 
+  --bord-h1: 1px solid var(--flux-color-1);
   --bord-h2: 4px solid var(--flux-color-2);
   --bord-h3: 1px solid var(--flux-bg-bold);
 }
