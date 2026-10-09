@@ -48,12 +48,12 @@ This table summarizes the traits that are special for a Druid: Circle of the Lan
 
 These spells are in addition to allotted number of prepared spells per day.
 
-Druid Level | Circle Spells
--|-
-3rd | Barkskin, Spider Climb
-5th | Call Lightning, Plant Growth
-7th | Divination, Freedom of Movement
-9th | Commune with Nature, Tree Stride
+| Druid Lvl | Circle Spells                    |
+| --------- | -------------------------------- |
+| 3rd       | Barkskin, Spider Climb           |
+| 5th       | Call Lightning, Plant Growth     |
+| 7th       | Divination, Freedom of Movement  |
+| 9th       | Commune with Nature, Tree Stride |
 
 ## Description
 
@@ -89,6 +89,6 @@ When you reach __10th__ level, you __can't be charmed or frightened__ by element
 
 ## Nature's Sanctuary
 
-When you reach __14th__ level, creatures of the natural world sense your connection to nature and become hesitant to attack you. When a __beast__ or __plant__ creature __attacks__ you, that creature must make a __Wisdom saving throw__ against your __druid spell save DC__. On a __failed save__, the creature must choose a __different target__, or the attack automatically misses. On a __successful save__, the __creature is immune__ to this effect for __24__ hours.
+When you reach __14th__ level, creatures of the natural world sense your connection to nature and become hesitant to attack you. When a __beast__ or __plant__ creature __attacks__ you, that creature must make a __WIS saving throw__ against your __druid spell save DC__. On a __failed save__, the creature must choose a __different target__, or the attack automatically misses. On a __successful save__, the __creature is immune__ to this effect for __24__ hours.
 
 The creature is aware of this effect before it makes its attack against you.

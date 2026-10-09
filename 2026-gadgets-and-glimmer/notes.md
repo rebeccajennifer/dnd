@@ -71,9 +71,9 @@ Court Drawing
 - Fnip gives me sending stone to communicate
 - Brambleshade walking into embassy
 
-| Level | Allotment | Used |
-| ----- | --------- | ---- |
-| 1     | 4         |      |
-| 2     | 3         |      |
-| 3     | 3         |      |
-| 4     | 1         |      |
+| Lvl | Allotment | Used |
+| --- | --------- | ---- |
+| 1   | 4         |      |
+| 2   | 3         |      |
+| 3   | 3         |      |
+| 4   | 1         |      |

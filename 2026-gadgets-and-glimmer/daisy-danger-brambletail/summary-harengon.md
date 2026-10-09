@@ -22,6 +22,6 @@ FORMAT
 | Ability Score Increase | +2 one skill, +1 one skill, or +3 one skill                                                                             |
 | Leporine Senses        | Proficiency in Perception                                                                                               |
 | Hare Trigger           | + Proficiency to initiative roles                                                                                       |
-| Lucky Footwork         | __Reaction:__ Add D4 roll to failed Dexterity saving throw;  Can't if prone or speed = 0                                |
+| Lucky Footwork         | __Reaction:__ Add D4 roll to failed DEX saving throw;  Can't if prone or speed = 0                                      |
 | Rabbit Hop             | Usage / long rest: # Proficiency; __Bonus Action:__ Jump 5x Proficiency feet, no opportunity attack; Can't if speed = 0 |
 | Languages              | Common + one other (Sylvan)                                                                                             |

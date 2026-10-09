@@ -47,11 +47,11 @@ Harengons are bipedal, with the characteristic long feet of the rabbits they res
 
 ## General
 
-Trait         | Notes
--|-
-Type          | Humanoid
-Size          | Medium or Small
-Speed         | Walking speed: 30 feet
+| Trait | Notes                  |
+| ----- | ---------------------- |
+| Type  | Humanoid               |
+| Size  | Medium or Small        |
+| Speed | Walking speed: 30 feet |
 
 ## Ability Score Increase
 
@@ -67,7 +67,7 @@ You have __proficiency__ in the __Perception__ skill.
 
 ## Lucky Footwork
 
-When you __fail__ a __Dexterity saving throw__, you can use your __reaction__ to roll a __d4__ and __add__ it to the __save__, potentially turning the failure into a success. You __can't__ use this reaction if you're __prone__ or your __speed is 0__.
+When you __fail__ a __DEX saving throw__, you can use your __reaction__ to roll a __d4__ and __add__ it to the __save__, potentially turning the failure into a success. You __can't__ use this reaction if you're __prone__ or your __speed is 0__.
 
 ## Rabbit Hop
 
