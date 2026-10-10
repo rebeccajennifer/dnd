@@ -17,11 +17,13 @@ FORMAT
 
 <link rel="stylesheet" href="../css/flux-bunny-text-md.css">
 
-| Trait                  | Description                                                                                                             |
-| ---------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| Ability Score Increase | +2 one skill, +1 one skill, or +3 one skill                                                                             |
-| Leporine Senses        | Proficiency in Perception                                                                                               |
-| Hare Trigger           | + Proficiency to initiative roles                                                                                       |
-| Lucky Footwork         | __Reaction:__ Add D4 roll to failed DEX saving throw;  Can't if prone or speed = 0                                      |
-| Rabbit Hop             | Usage / long rest: # Proficiency; __Bonus Action:__ Jump 5x Proficiency feet, no opportunity attack; Can't if speed = 0 |
-| Languages              | Common + one other (Sylvan)                                                                                             |
+| Trait                  | Description                                                                      |
+| ---------------------- | -------------------------------------------------------------------------------- |
+| Ability Score Increase | +2 one skill, +1 one skill, or +3 one skill                                      |
+| Leporine Senses        | Prof in Perception                                                               |
+| Hare Trigger           | + Prof to initiative roles                                                       |
+| Lucky Footwork         | __Reaction:__ Add D4 roll to failed DEX saving throw*                            |
+| Rabbit Hop             | Usage / long rest: # PB; __Bonus Action:__ Jump 5x PB ft, no opportunity attack* |
+| Languages              | Common + one other (Sylvan)                                                      |
+
+<p style="font-size: var(--sz-smll);"> * Can't if prone or speed = 0</p>
